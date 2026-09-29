@@ -1,5 +1,7 @@
 # Basic Banking API
 
+A secure RESTful Banking API built with Python and FastAPI, featuring JWT authentication, account management, deposits, withdrawals, fund transfers, transaction history, and logout token blacklisting.
+
 ## 1. Project overview
 A REST API for a basic banking application. Users can register, log in, view their account, deposit, withdraw, transfer money to another account, see transaction history, and log out. Protected endpoints require a JWT.
 
